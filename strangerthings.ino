@@ -10,7 +10,7 @@
 #define WIFI_PASSWORD "xxx"
 // Firebase settings
 #define FIREBASE_HOST "stranger-things-a19dd.firebaseio.com"
-#define FIREBASE_AUTH "OX0ZH4kucmpIYDV3ncNwVPDgrSVy6ibc1c15JpY7"
+#define FIREBASE_AUTH "xxx"
 #define FIREBASE_PATH "/data/message"
 // the milliseconds to give each letter
 #define MILLIS_PER_LETTER 3000
