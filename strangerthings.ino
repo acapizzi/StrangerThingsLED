@@ -7,7 +7,7 @@
 #include "FastLED.h"
 // WIFI settings
 #define WIFI_SSID "Passwordistaco"
-#define WIFI_PASSWORD "teamkonige"
+#define WIFI_PASSWORD "xxx"
 // Firebase settings
 #define FIREBASE_HOST "stranger-things-a19dd.firebaseio.com"
 #define FIREBASE_AUTH "OX0ZH4kucmpIYDV3ncNwVPDgrSVy6ibc1c15JpY7"
